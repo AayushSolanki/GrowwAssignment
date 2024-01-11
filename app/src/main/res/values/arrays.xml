@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array name="name_filters">
+            <item>All</item>
+            <item>Filter 1</item>
+            <item>Filter 2</item>
+        </string-array>
+
+        <string-array name="created_sort_options">
+            <item>Newest First</item>
+            <item>Oldest First</item>
+
+        </string-array>
+
+</resources>
